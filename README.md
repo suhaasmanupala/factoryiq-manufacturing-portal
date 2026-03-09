@@ -382,6 +382,6 @@ For support, please contact: support@factoryiq.com
 ---
 
 **Built with ❤️ by the FactoryIQ Team**
-https://69ae500572f962d33d11057d--stupendous-sfogliatella-923e6c.netlify.app/login
+https://69ae500572f962d33d11057d--stupendous-sfogliatella-923e6c.netlify.app/
 
 **Version 1.0.0** | **Last Updated: 2024**
